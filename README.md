@@ -5,7 +5,7 @@ This is a test repo to test the testing of git rebase testing demo!
 Niggah wut?!
 
 
-:Hey Master Gibbs, How do you treat women?
+:Hey Master Gibbs, how do you treat women?
 
 :As object, cap'n.
 
